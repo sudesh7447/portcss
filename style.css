@@ -1,0 +1,80 @@
+body{
+  background-color: #5CDB95;
+
+  text-align: center;
+  margin: 0;
+}
+.whi{
+  height : 60px;
+  width : 22%;
+  background-color: #05386B;
+  position: absolute;
+  top: 100px;
+}
+.red{
+  height: 80px;
+  width: 100%;
+  background-color: #05386B;
+  color: gold;
+  text-align:right;
+
+  position: fixed;
+  top : 0;
+  font-family: cursive;
+}
+.pho{
+  border-radius: 100%;
+}
+.tab{
+  font-family: sans-serif;
+  color: #04009A;
+
+  position: absolute;
+  top : 200px;
+  left : 150px;
+}
+.bee{
+  color: #2E1114;
+}
+.main{
+  position: absolute;
+  top : 125px;
+  right : 10px;
+  border-radius: 100%;
+}
+  li{
+
+
+    color: #25274D;
+
+  }
+
+
+.h
+{
+  position: absolute;
+  left :25px;
+  top : 0;
+  text-align: center;
+  color: silver;
+}
+h2{
+  color: white;
+}
+.tex{
+  position: absolute;
+  top:0;
+text-align: center;
+color: white;
+}
+.tooltip{
+  color: gold;
+
+}
+.cp{
+  color :#2E1114;
+  font-size: 25px;
+  font-family: monospace;
+
+
+}
